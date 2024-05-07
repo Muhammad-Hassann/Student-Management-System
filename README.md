@@ -1,3 +1,12 @@
-This project is a simple console based Student Management System. In this project you will be learning how to add new students, how to generate a 5 digit unique studentID for each student, how to enroll students in the given courses. Also, you will be implementing the following operations enroll, view balance, pay tuition fees, show status, etc. The status will show all the details of the student including name, id, courses enrolled and balance.This is one of the best projects to implement the Object Oriented Programming concepts.
+# CLI-based Student Management System with TypeScript
+* This project implements a command-line interface (CLI) application for managing student data using TypeScript, Inquirer, and Chalk libraries.
 
-Create a GitHub repository for the project and submit its URL in the project submission form.
+## Features
+* Enroll students into courses
+* Pay fees
+* View student details
+
+## Technologies Used
+* TypeScript: A superset of JavaScript that provides static typing for code safety and maintainability.
+* Inquirer: A library for creating interactive command-line prompts.
+* Chalk: A library for adding colors and styles to the terminal output for better user experience.
